@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         WeiyunHelper - 微云 Aria2 下载辅助脚本
-// @namespace    https://github.com/loo2k/WeiyunHelper/
+// @namespace    https://github.com/masakichi/WeiyunHelper/
 // @version      0.0.7
 // @description  微云下载时文件支持导出到 aria2 下载，支持分享页面及个人云盘管理页
 // @author       Luke
 // @match        *://*.weiyun.com/*
 // @grant        none
 // @run-at       document-end
-// @updateURL    https://github.com/loo2k/WeiyunHelper/raw/master/weiyun.user.js
-// @downloadURL  https://github.com/loo2k/WeiyunHelper/raw/master/weiyun.user.js
-// @supportURL   https://github.com/loo2k/WeiyunHelper/issues
+// @updateURL    https://github.com/masakichi/WeiyunHelper/raw/master/weiyun.user.js
+// @downloadURL  https://github.com/masakichi/WeiyunHelper/raw/master/weiyun.user.js
+// @supportURL   https://github.com/masakichi/WeiyunHelper/issues
 // ==/UserScript==
 
 (function () {
